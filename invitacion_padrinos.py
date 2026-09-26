@@ -38,7 +38,7 @@ que queremos que ocupes ese día: el de padrinos de nuestra boda.
 """
 
 CUERPO = """
-Iniciamos una nuevo hogar, una nueva familia
+Iniciamos un nuevo hogar, una nueva familia y
 deseamos rodearnos de unos esposos 
 llenos de amor, valientes y guiados por Dios,
 nos encantaría contar con ustedes para acompañarnos
