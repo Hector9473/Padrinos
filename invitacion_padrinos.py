@@ -45,12 +45,12 @@ también frente al altar.
 """
 
 # Saludo por defecto si no se identifica al invitado por la URL
-SALUDO_GENERICO = "Querid@ amig@"
+SALUDO_GENERICO = "Queridos Ana y Fabian@"
 
 # Lista opcional de invitados: código (va en el enlace) -> nombre que se muestra
 # Si tu invitado no está en la lista, se usa el SALUDO_GENERICO.
 INVITADOS = {
-    "maria-jose": "Maria Jose",
+    "ana-fabian": "Ana & Fabian",
     "sandra-liliana": "Sandra Liliana",
     "hector-fabio": "Hector Fabio",
     "liliana": "Liliana",
@@ -81,7 +81,7 @@ MODO_EDICION = True
 # Foto definitiva (la que verán los invitados) si ya tienes el archivo
 # guardado junto a este script. Escribe aquí su nombre, por ejemplo:
 # FOTO_PORTADA_FIJA = "portada.jpg"
-FOTO_PORTADA_FIJA = None
+FOTO_PORTADA_FIJA = "Padrino.jpg"
 
 # Carpetas donde se busca la foto de portada (junto a este archivo).
 NOMBRES_CARPETA_FOTOS = ("fotos", "mi-carpeta")
