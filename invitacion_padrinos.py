@@ -81,10 +81,10 @@ MODO_EDICION = True
 # Foto definitiva (la que verán los invitados) si ya tienes el archivo
 # guardado junto a este script. Escribe aquí su nombre, por ejemplo:
 # FOTO_PORTADA_FIJA = "portada.jpg"
-FOTO_PORTADA_FIJA = None
+FOTO_PORTADA_FIJA = "padrinos.jpg"
 
 # Carpetas donde se busca la foto de portada (junto a este archivo).
-NOMBRES_CARPETA_FOTOS = ("fotos", "mi-carpeta")
+NOMBRES_CARPETA_FOTOS = ("padrinos.jpg", "mi-carpeta")
 EXTENSIONES = {".jpg", ".jpeg", ".png", ".webp"}
 
 # Velo oscuro sobre la foto para que el texto blanco siga leyéndose.
