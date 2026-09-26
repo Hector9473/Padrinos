@@ -45,7 +45,7 @@ también frente al altar.
 """
 
 # Saludo por defecto si no se identifica al invitado por la URL
-SALUDO_GENERICO = "Querid@ amig@"
+SALUDO_GENERICO = "Doña Ana"
 
 # Lista opcional de invitados: código (va en el enlace) -> nombre que se muestra
 # Si tu invitado no está en la lista, se usa el SALUDO_GENERICO.
