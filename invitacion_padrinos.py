@@ -50,12 +50,8 @@ SALUDO_GENERICO = "Querid@ amig@"
 # Lista opcional de invitados: código (va en el enlace) -> nombre que se muestra
 # Si tu invitado no está en la lista, se usa el SALUDO_GENERICO.
 INVITADOS = {
-    "maria-jose": "Maria Jose",
-    "sandra-liliana": "Sandra Liliana",
-    "hector-fabio": "Hector Fabio",
-    "liliana": "Liliana",
-    "valeria-ramos": "Valeria Ramos",
-    "hector-salazar": "Hector Salazar",
+    "Doña-ana-y-fabia": "Doña Ana & Fabian",
+  
 }
 
 
@@ -81,7 +77,7 @@ MODO_EDICION = True
 # Foto definitiva (la que verán los invitados) si ya tienes el archivo
 # guardado junto a este script. Escribe aquí su nombre, por ejemplo:
 # FOTO_PORTADA_FIJA = "portada.jpg"
-FOTO_PORTADA_FIJA = None
+FOTO_PORTADA_FIJA = "Padrino.jpg"
 
 # Carpetas donde se busca la foto de portada (junto a este archivo).
 NOMBRES_CARPETA_FOTOS = ("fotos", "mi-carpeta")
