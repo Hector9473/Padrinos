@@ -34,18 +34,19 @@ FORMS_URL = "https://forms.gle/4cGepJCuvvtpjZpq6"
 
 MENSAJE = """
 Estamos por unir nuestras vidas y hay un lugar muy importante
-que queremos que ocupes ese día: el de <strong>padrino / madrina</strong>
-de nuestra boda.
+que queremos que ocupes ese día: el de padrinos de nuestra boda.
 """
 
 CUERPO = """
-Tu cariño y tu presencia han sido parte de nuestro camino,
-y nos encantaría contar contigo para acompañarnos
+Iniciamos una nuevo hogar, una nueva familia
+deseamos rodearnos de unos esposos 
+llenos de amor, valientes y guiados por Dios,
+nos encantaría contar con ustedes para acompañarnos
 también frente al altar.
 """
 
 # Saludo por defecto si no se identifica al invitado por la URL
-SALUDO_GENERICO = "Queridos Ana y Fabian@"
+SALUDO_GENERICO = "Queridos Ana y Fabian"
 
 # Lista opcional de invitados: código (va en el enlace) -> nombre que se muestra
 # Si tu invitado no está en la lista, se usa el SALUDO_GENERICO.
