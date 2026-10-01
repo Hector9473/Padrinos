@@ -77,12 +77,12 @@ CARBON = "#30352C"
 
 # True  -> muestra el panel lateral para subir la foto de portada.
 # False -> versión final para los invitados (sin panel).
-MODO_EDICION = True
+MODO_EDICION = False
 
 # Foto definitiva (la que verán los invitados) si ya tienes el archivo
 # guardado junto a este script. Escribe aquí su nombre, por ejemplo:
 # FOTO_PORTADA_FIJA = "portada.jpg"
-FOTO_PORTADA_FIJA = "Padrino.jpg"
+FOTO_PORTADA_FIJA = "Padrino.jpeg"
 
 # Carpetas donde se busca la foto de portada (junto a este archivo).
 NOMBRES_CARPETA_FOTOS = ("fotos", "mi-carpeta")
